@@ -3,20 +3,20 @@
     <string name="app_desc">Your Ultimate Local Surf Adventure Guide</string>
 
     //Intro copy
-    <string name="surf_spots_intro">The Bay Area has several great spots for begginers to learn how to surf and for professional surfers to get eXxXtreme at.</string>
+    <string name="surf_spots_intro">The Bay Area has several great spots for beginners to learn how to surf and for professional surfers to get eXxXtreme at.</string>
     <string name="food_and_drink_intro">Pre and post surf grub and drinks. Here are a few of our favorites within a stone\'s throw from the surf.</string>
     <string name="hotel_intro">Stay by the beach. Here\'s a list of hotels within walking distance of the waves.</string>
     <string name="events_intro">There are a ton of events happening by the beach all year long. Here are some of our favorites.</string>
 
     //Surf spots
-    <string name="spot_1">Fort Cronkhite-Rodeo Beach, Marin</string>
-    <string name="spot_1_desc">Mainly a shortboard spot. Sometimes good, mostly a closeout. It has it\'s days, but those are few and far between. Great spot to take a hike if the surf isn’t good.</string>
+    <string name="spot_1">Fort Cronkite-Rodeo Beach, Marin</string>
+    <string name="spot_1_desc">Mainly a shortboard spot. Sometimes good, mostly a closeout. It has it\'s days, but those are few and far between. Great spot to take a hike if the surf isn\'t good.</string>
     <string name="spot_1_loc">849VRFJ7+75</string>
     <string name="spot_2">Fort Point, San Francisco</string>
     <string name="spot_2_desc">Novelty spot directly under the Golden Gate Bridge. Best on a low tide with decent sized swell. Take off points shift sometimes moving directly under or even past the bridge with another bowl forming behind a rock that will show on lower tides. Don\’t surf here unless you know what your doing and can handle dirty scowls and people telling you to go home.</string>
     <string name="spot_2_loc">849VRG6F+65</string>
     <string name="spot_3">Secret Spot, San Francisco</string>
-    <string name="spot_3_desc">It\'s everyone\'s favorite secret somewhere between Fort Point and Ocean Beach. Don\’t surf here unless you’re ready to go shoulder-to-shoulder with everyone who hates that your there.</string>
+    <string name="spot_3_desc">It\'s everyone\'s favorite secret somewhere between Fort Point and Ocean Beach. Don\'t surf here unless you\'re ready to go shoulder-to-shoulder with everyone who hates that you\'re there.</string>
     <string name="spot_3_loc">849VQFQV+6M</string>
     <string name="spot_4">Ocean Beach, San Francisco</string>
     <string name="spot_4_desc">3 miles of beach breaks on the western edge of San Francisco. Not ideal for beginners. Can get world class a few times a year with a large west-northwest swell and light offshore winds from the east. Blown out or small most of spring and summer. Fall and winter is when this spot shines.</string>
@@ -34,10 +34,10 @@
     <string name="spot_8_desc">Usually pretty mellow, but the parking lot can get full on the weekend. Not great, but not bad. Fun to change it up type of spot.</string>
     <string name="spot_8_loc">849VHF7P+RC</string>
     <string name="spot_9">Montara Beach, Montara</string>
-    <string name="spot_9_desc">More beach break. Crowds aren’t too bad. Sometimes hollow. South end and middle tend to be where surfers</string>
+    <string name="spot_9_desc">More beach break. Crowds aren\'t too bad. Sometimes hollow. South end and middle tend to be where surfers.</string>
     <string name="spot_9_loc">849VGFWP+W5</string>
     <string name="spot_10">Mavericks, Half Moon Bay</string>
-    <string name="spot_10_desc">World famous big wave spot. This spot has taken several big wave chargers lives. This is only for experts and pro\'s.</string>
+    <string name="spot_10_desc">World famous big wave spot. This spot has taken several lives. This is only for experts and pros.</string>
     <string name="spot_10_loc">849VFFVX+4X</string>
 
     //Hotels
@@ -65,34 +65,34 @@
 
     //Food and Drink
     <string name="food_drink_1">Java Beach, 1396 La Playa St, San Francisco, CA 94122</string>
-    <string name="food_drink_1_desc">Good spot to grab a coffee before checking Ocean Beach</string>
+    <string name="food_drink_1_desc">Good spot to grab a coffee before checking Ocean Beach.</string>
     <string name="food_drink_1_loc">849VQF6R+5CM</string>
     <string name="food_drink_2">Pittsburgh’s Pub, 4207 Judah St, San Francisco, CA 94122</string>
     <string name="food_drink_2_desc">Divey, divey bar.</string>
     <string name="food_drink_2_loc">849VQF6V+34F</string>
     <string name="food_drink_3">Beachside Cafe, 4542 Irving St, San Francisco, CA 94122</string>
-    <string name="food_drink_3_desc">Good post-surf brunch spot</string>
+    <string name="food_drink_3_desc">Good post-surf brunch spot.</string>
     <string name="food_drink_3_loc">849VQF6R+5MH</string>
-    <string name="food_drink_4">Celia’s, 4019 Judah St, San Francisco, CA 94122</string>
-    <string name="food_drink_4_desc">Can’t go wrong with Taco Tuesday\'s here</string>
+    <string name="food_drink_4">Celia\'s, 4019 Judah St, San Francisco, CA 94122</string>
+    <string name="food_drink_4_desc">Can\'t go wrong with Taco Tuesday\'s here.</string>
     <string name="food_drink_4_loc">849VQF6V+4W9</string>
     <string name="food_drink_5">Trouble Coffee, 4033 Judah St, San Francisco, CA 94122</string>
-    <string name="food_drink_5_desc">Small coffee spot with a nice patio</string>
+    <string name="food_drink_5_desc">Small coffee spot with a nice patio.</string>
     <string name="food_drink_5_loc">849VQF6V+4V</string>
     <string name="food_drink_6">Yonker\'s Cafe, 3815 Noriega St, San Francisco, CA 94122</string>
-    <string name="food_drink_6_desc">Pre and post surf sandwiches</string>
+    <string name="food_drink_6_desc">Pre and post surf sandwiches.</string>
     <string name="food_drink_6_loc">849VQF3W+44</string>
     <string name="food_drink_7">Pizza Place on Noriega, 3901 Noriega St, San Francisco, CA 94122</string>
-    <string name="food_drink_7_desc">Laidback pizza place where you\'ll see a lot of familiar faces from the water</string>
+    <string name="food_drink_7_desc">Laidback pizza place where you\'ll see a lot of familiar faces from the water.</string>
     <string name="food_drink_7_loc">849VQF3V+4Q</string>
     <string name="food_drink_8">Flanahan\'s Pub, 3805 Noriega St, San Francisco, CA 94122</string>
     <string name="food_drink_8_desc">Cash only pub where locals hang</string>
     <string name="food_drink_8_loc">849VQF3W+45</string>
     <string name="food_drink_9">Riptide, 3639 Taraval, San Francisco, CA 94116</string>
-    <string name="food_drink_9_desc">Burnt down a few years ago, but back with vengeance</string>
+    <string name="food_drink_9_desc">Burnt down a few years ago, but back with vengeance.</string>
     <string name="food_drink_9_loc">849VPFRV+MV</string>
     <string name="food_drink_10">White Cap, 3608 Taraval St, San Francisco, CA 94116</string>
-    <string name="food_drink_10_desc">Owned and operated by surfers</string>
+    <string name="food_drink_10_desc">Owned and operated by surfers.</string>
     <string name="food_drink_10_loc">849VPFRW+Q2</string>
     <string name="food_drink_11">Andytown, 3655 Lawton St, San Francisco, CA 94122</string>
     <string name="food_drink_11_desc">Try a snowy plover. Thank us later.</string>
@@ -103,13 +103,13 @@
     <string name="event_1_desc">If you have money check out this giant music festival in Golden Gate Park featuring all the latest chart toppers. Held early August.</string>
     <string name="event_1_loc">849VQG97+QG</string>
     <string name="event_2">Hardly Strictly Bluegrass, Golden Gate Park</string>
-    <string name="event_2_desc">Outside Lands freer, quirker, lessy poppy older brother. Check out this free sprawling music festival in early October</string>
+    <string name="event_2_desc">Outside Lands freer, quirker, lessy poppy older brother. Check out this free sprawling music festival in early October.</string>
     <string name="event_2_loc">849VQG97+QG</string>
     <string name="event_3">Stern Grove Music Festival, Stern Grove</string>
     <string name="event_3_desc">Free Sunday concerts featuring a wide range of artists and genres all summer long.</string>
     <string name="event_3_loc">849VPGMF+XP</string>
     <string name="event_4">Noriega Street Fair, Outer Sunset, San Francisco</string>
-    <string name="event_4_desc">Small, fun neighborhood street fair held in October</string>
+    <string name="event_4_desc">Small, fun neighborhood street fair held in October.</string>
     <string name="event_4_loc">849VQF3W+64</string>
 
 </resources>
