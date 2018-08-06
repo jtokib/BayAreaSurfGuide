@@ -29,7 +29,6 @@ public class PlaceAdaptor extends ArrayAdapter<Place> {
 
         final Place currentPlace = getItem(position);
 
-        //TODO: add code for layout
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image_view);
 
         if(currentPlace.hasImage()) {

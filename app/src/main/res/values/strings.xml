@@ -112,4 +112,10 @@
     <string name="event_4_desc">Small, fun neighborhood street fair held in October.</string>
     <string name="event_4_loc">849VQF3W+64</string>
 
+    //Tab Titles
+    <string name="tab_title_1">Surf Spots</string>
+    <string name="tab_title_2">Food and Drink</string>
+    <string name="tab_title_3">Sleep</string>
+    <string name="tab_title_4">Events</string>
+
 </resources>

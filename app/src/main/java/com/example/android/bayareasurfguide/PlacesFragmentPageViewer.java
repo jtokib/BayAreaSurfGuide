@@ -37,13 +37,13 @@ public class PlacesFragmentPageViewer extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
-            return "Surf Spots";
+            return _context.getString(R.string.tab_title_1);
         } else if(position == 1) {
-            return "Food and Drink";
+            return _context.getString(R.string.tab_title_2);
         } else if(position == 2) {
-            return "Sleep";
+            return _context.getString(R.string.tab_title_3);
         } else {
-            return "Events";
+            return _context.getString(R.string.tab_title_4);
         }
     }
 }
